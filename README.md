@@ -5,7 +5,7 @@
 
 ## Dev guide
 
-Please read [our full setup guide](https://github.com/wearekickback/docs/blob/master/RunningEverythingLocally.md)
+Please read [our full setup guide](https://github.com/wearekickback/docs/blob/master/RunningEverythingLocallySql.md)
 
 **Test creating a event locally**
 
